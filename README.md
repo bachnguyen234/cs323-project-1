@@ -9,6 +9,14 @@ This contains the code and analysis for **Project 1: Anonymity** for the course 
 This project implements a k-anonymization pipeline on the UCI Adult dataset.
 We developed functions to perform attribute generalization, enforce **$k$-anonymity**, and compute utility metrics to evaluate the trade-off between privacy and data usability.
 
+## Data Source
+
+The dataset used in this project is the UCI Adult dataset, also known as the “Census Income” dataset, which is publicly available from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/adult
+
+The dataset contains demographic information extracted from the 1994 U.S. Census, including age, workclass, education, marital status, occupation, race, sex, native country, and income.
+
+Size: 48,842 instances (with 14 attributes, including the target variable income).
+
 ## Project Structure 
 The project consists of 7 files:
 - __cs323_project_1.ipnyb__: The main Jupyter Notebook that contains all of the code needed to run this project.
