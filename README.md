@@ -1,25 +1,19 @@
-# DA401 Capstone Project - [Your Name]
+# CS323 Project 1
+Author: James Bui, Bach Nguyen
 
-## Project Title
-(Write a clear, descriptive title for your project.)
+This contains the code and analysis for **Project 1: $k$-anonymity** for the course CS 323: Data Privacy
 
-## Research Question
-What question are you trying to answer?
 
-## Data Source
-Where is your data coming from? 
+## Data
 
-## Methods
-Which methods or models will you use? 
+The dataset is contained in the file `adult.data`. The metadata is in the file `adult.name`.
 
-## Expected Timeline
-What do you expect to produce every week?
 
-## Google Drive 
-[Google Drive link if you have any]
+## Code
 
-## Repository Structure
-- `code/`: All analysis scripts or notebooks
-- `writing/`: Proposal, drafts, final paper
-- `figures/`: Plots, charts, visualizations
-- `data/`: Only small sample data (large files go in Google Drive)
+The main notebook for the project is:
+
+- [`cs323_project_1.ipynb`](cs323_project_1.ipynb)
+
+Open the notebook in Jupyter or VS Code to explore the project and run the code.
+
